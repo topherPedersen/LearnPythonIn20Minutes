@@ -1,6 +1,6 @@
 # LearnPythonIn20Minutes
 Learn Python in 20 Minutes
 
-https://bit.ly/2Yd1eeM
+https://bit.ly/2U3QLTv
 
-https://raw.githubusercontent.com/topherPedersen/LearnPythonIn20Minutes/master/LearnPythonIn20Minutes.png
+https://raw.githubusercontent.com/topherPedersen/LearnPythonIn20Minutes/master/LearningPythonIn20Minutes.png
